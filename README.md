@@ -39,4 +39,6 @@ encoding of data for communication for  on/off particular Equipment:
 ![](https://raw.githubusercontent.com/fenil29/home-automation-system-android-application/master/images/flowchart.png)
 
 ------------
+### Developers
+Fenil Kaneria, Jigar Mehta
 
